@@ -1,0 +1,8 @@
+{
+  "name": "лр1",
+  "version": "1.0.0",
+  "dependencies": {
+    "console-read-write": "^0.1.1",
+    "readline-sync": "^1.4.10"
+  }
+}
